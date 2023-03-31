@@ -63,7 +63,6 @@ public class Operacion {
             return 0;
         }
     }
-
     public double dividir() {
         if (getNumero1() != 0 && getNumero2() != 0) {
             double resultado = getNumero1() * getNumero2();

@@ -1,7 +1,6 @@
 package Ejercicio3;
 
 import Ejercicio3.Operacion.Operacion;
-
 public class Main {
     public static void main(String[] args) {
 

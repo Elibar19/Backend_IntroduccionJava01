@@ -11,6 +11,5 @@ public class Main {
                 "Autor: " + libro1.getAutor() + "\n" +
                 "ISBN: " + libro1.getISBN() + "\n" +
                 "Numero de paginas: " + libro1.getNumeroPaginas());
-
     }
 }

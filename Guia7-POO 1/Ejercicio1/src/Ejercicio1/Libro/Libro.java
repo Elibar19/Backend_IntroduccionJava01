@@ -67,6 +67,5 @@ public class Libro {
         return numeroPaginas;
     }
 
-
 }
 

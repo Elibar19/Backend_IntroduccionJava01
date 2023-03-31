@@ -10,6 +10,5 @@ public class Main {
         System.out.println("Perimetro: " + rect1.perimetro());
         System.out.println("Superficie: " + rect1.superficie());
         rect1.dibujarRectangulo();
-
     }
 }

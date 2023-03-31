@@ -12,7 +12,6 @@ public class Rectangulo {
     //-------METODOS----------//
     public Rectangulo() {
     }
-
     public Rectangulo(int base, int altura) {
         this.base = base;
         this.altura = altura;
