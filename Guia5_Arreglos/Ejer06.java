@@ -3,7 +3,7 @@ package egg.BackendJava01.Guia5_Arreglos;
 import java.util.Scanner;
 
 public class Ejer06 {
-    static Scanner leer = new Scanner(System.in).useDelimiter("\n");
+    static Scanner leer = new Scanner(System.in);
 
     public static void main(String[] args) {
         int[][] matriz = new int[3][3];

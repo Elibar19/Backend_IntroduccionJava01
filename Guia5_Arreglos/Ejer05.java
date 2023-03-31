@@ -40,11 +40,10 @@ public class Ejer05 {
         boolean verificar = false;
         for (int f = 0; f < 3; f++) {
             for (int c = 0; c < 3; c++) {
-                if (matriz[f][c] == -matriz[f][c]) {
+                if (matriz[f][c] == -matriz[c][f]) {
                     verificar = true;
                 }
             }
-
         }
         if (verificar) {
             System.out.println("La matriz es antisimetrica");
@@ -66,7 +65,7 @@ public class Ejer05 {
 
         for (int f = 0; f < 3; f++) {
             for (int c = 0; c < 3; c++) {
-                System.out.print(" [ " + matriz[c][f] + " ] ");
+                System.out.print(" [ " + -matriz[c][f] + " ] ");
             }
             System.out.println("");
         }
