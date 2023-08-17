@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ejer1/Ejer1.iml" filepath="$PROJECT_DIR$/Ejer1/Ejer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejer2/Ejer2.iml" filepath="$PROJECT_DIR$/Ejer2/Ejer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejer3y4/Ejer3y4.iml" filepath="$PROJECT_DIR$/Ejer3y4/Ejer3y4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejer5/Ejer5.iml" filepath="$PROJECT_DIR$/Ejer5/Ejer5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejer8/Ejer8.iml" filepath="$PROJECT_DIR$/Ejer8/Ejer8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Excepciones.iml" filepath="$PROJECT_DIR$/.idea/Excepciones.iml" />
+    </modules>
+  </component>
+</project>
